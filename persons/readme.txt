@@ -1,0 +1,1 @@
+create folders and name it with persons name and copy persons imges there 
